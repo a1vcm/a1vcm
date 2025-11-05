@@ -9,7 +9,8 @@ Hi there, I'm Alvaro! I'm a Computer Science student at the University of Centra
 - 📅 Graduation: Expected Fall 2027
 
 ## My Projects
--  DronePath — Built a drone-route optimization tool for power line inspection that won **3rd place** at KnightHacks 2025. (Python, OR-Tools, Plotly) — https://github.com/a1vcm/knighthacks2025
+-  DronePath — Built a drone-route optimization tool for power line inspection that won **3rd place** at KnightHacks 2025 (Python, OR-Tools, Plotly) — https://devpost.com/software/dronepath
+-  PathFinder - Created a Google Chrome extension that utilizes Google's ADK alongside Gemini to make web navigation easier at ShellHacks 2025 (Google ADK, Gemini, Python) - https://devpost.com/software/tbd-tub2ve
 -  Personal Portfolio — Full-stack personal site with my projects, blogs, and more (HTML/CSS, JavaScript, Tailwind CSS) — https://www.alvarocm.dev/
 
 ## My Skillset
