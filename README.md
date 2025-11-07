@@ -6,6 +6,8 @@
 ## About
 Hi there, I'm Alvaro! I'm a Computer Science student at the University of Central Florida and I am aspiring to become a software engineer. I love going to concerts, listening to music, working out, traveling the world, playing sports, and doing many other things.
 
+LinkedIn: https://www.linkedin.com/in/alvaro-canseco-martinez/
+
 - 📍 Location: Orlando, FL
 - 🎓 Education: University of Central Florida (B.S. in Computer Science)
 - 📅 Graduation: Expected Fall 2027
