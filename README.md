@@ -26,6 +26,4 @@ LinkedIn: https://www.linkedin.com/in/alvaro-canseco-martinez/
 - Frameworks/Libraries: NumPy, Shapely, Plotly, Google Cloud ADK, Raylib, React, Node.js, Tailwind CSS
 - Tools: Google OR-Tools, Git/GitHub, Vercel, VS Code, IntelliJ, Microsoft Office Suite, Canva, Figma, Linux
 
-# GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a1vcm&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a1vcm&layout=compact&theme=dracula)
+<img src="https://raw.githubusercontent.com/a1vcm/a1vcm/output/snake.svg" alt="Snake!" />
