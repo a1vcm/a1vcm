@@ -1,6 +1,6 @@
 # Hi there, I'm Alvaro! 👋
 
-I'm a CS Junior at UCF aspiring to be a Software Engineer, and am currently exploring ML, Data Science, and AWS through multiple projects.
+I'm a CS Junior at UCF aspiring to be a Software Engineer, and am currently exploring ML, Data Science, and AWS through projects.
 
 [🌐 Portfolio](https://alvarocm.dev) | [💼 LinkedIn](https://www.linkedin.com/in/alvaro-canseco-martinez/)
 
