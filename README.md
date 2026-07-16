@@ -8,7 +8,7 @@ I'm a CS student at UCF pursuing my Accelerated BS-to-MS, aspiring to be a Softw
 
 ### 💼 Experience & Leadership
 * **Software Engineer** at Lockheed Martin *(CWEP)*
-* * **Software Engineer Intern** at Bank of New York Mellon *(Incoming Fall 2026)*
+* **Software Engineer Intern** at Bank of New York Mellon *(Incoming Fall 2026)*
 * **Software Engineer** at Graphics Programming Knights at UCF
 * **Outreach Team Member** at Knight Hacks at UCF
 
