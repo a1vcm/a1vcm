@@ -15,7 +15,7 @@ I'm a CS student at UCF pursuing my Accelerated BS-to-MS, aspiring to be a Softw
 ---
 
 ### 👾 Featured Projects
-Ecoverse | DronePath | The First Bloom | AutoLaw | PathFinder
+Ecoverse | DronePath | The First Bloom | AutoLaw | PathFinder | alvarocm.dev
 
 
 ---
