@@ -26,7 +26,7 @@ Ecoverse | DronePath | The First Bloom | AutoLaw | PathFinder | alvarocm.dev
 | :--- | :--- |
 | **Languages** | Python, Java, C++, C#, C, PHP, JavaScript, TypeScript, SQL, HTML/CSS, Dart |
 | **AI/ML & Data Science** | Tensorflow, scikit-learn, PyTorch, Pandas, Numpy, Matplotlib, Seaborn, LangGraph, Gemini, Jupyter, LangChain|
-| **Web, Mobile & Design** | React, Next.js, TanStack Start, Node.js, Express.js, Flutter, Qt, FastAPI, MySQL, PostgreSQL, MongoDB, Drizzle ORM, Better Auth, Tailwind CSS, Vercel, Figma|
+| **Web, Mobile & Design** | React, Next.js, TanStack Start, Node.js, Express.js, Flutter, Qt, FastAPI, MySQL, PostgreSQL, MongoDB, Drizzle ORM, Better Auth, JWT, Tailwind CSS, Vercel, Figma|
 | **DevOps & Tools** | Docker, Linux, Apache, Git, CMake, Bun, Vitest, Swaggerhub, Postman, CI/CD, Agile, Windsurf, IntelliJ, Google ADK|
 
 <img src="https://raw.githubusercontent.com/a1vcm/a1vcm/output/snake.svg" alt="Snake!" />
