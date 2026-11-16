@@ -1,6 +1,6 @@
 # Hey there, I'm Alvaro! 🦇
 
-I'm a CS student at UCF and am currently working with AI/ML, hardware, distributed systems, and full-stack development work. 
+I'm a computer science student at UCF and am currently exploring ML/AI, robotics, and data science.
 
 <img src="https://raw.githubusercontent.com/a1vcm/a1vcm/output/snake.svg" alt="Snake!" />
 
